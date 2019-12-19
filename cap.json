@@ -22,7 +22,7 @@
         "valid_times":          2,
         "batch_size":           4,
         "learning_rate":        1e-4,
-        "saved_folder":   		"/content/Yolo-digit-detector/Cap_Finder",
+        "saved_folder":   		"/content/Yolo-digit-detector/raccoon",
         "first_trainable_layer": "",
         "jitter":				true,
         "is_only_detect" : 		false
